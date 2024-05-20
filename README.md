@@ -16,9 +16,9 @@ Conhecer como cada candidato organiza a lógica de registro de um usuário, os c
 
 ## Ferramentas do Desafio
 
-A base de framework será o [Next.js](https://nextjs.org/)
-Auth.js JavaScript frameworks de autenticação [Auth.js](https://authjs.dev/)
-Banco de dados PostgreSQL [Neon PostgreSQL](https://neon.tech/)
+1. A base de framework será o [Next.js](https://nextjs.org/)
+2. Frameworks de autenticação [Auth.js](https://authjs.dev/)
+3. Banco de dados PostgreSQL [Neon PostgreSQL](https://neon.tech/)
 
 ## Passos do desafio
 1. Crie um fork deste repositório
@@ -43,5 +43,9 @@ Assim que o usuário validar seu cadastro via OTP de 6 dígitos, fazer um push p
 * Dúvidas enviar e-mail para ola@norbaas.com.br
 * O prazo de entrega são 7 dias
 
+## Ajuda
+* Fluxo de autenticação em [Next.js](https://nextjs.org/docs/app/building-your-application/authentication)
+* Documentação de integração do [Auth.js](https://authjs.dev/getting-started/installation)
+* Documentação de conexão do Banco de dados [Neon](https://neon.tech/docs/get-started-with-neon/connect-neon)
 
 Post de ajuda para suporte de OTP: [Guia do OTP](https://www.linkedin.com/pulse/ditching-magic-links-otp-tutorial-nextjs-nextauth-will-olson-smo3c/)
